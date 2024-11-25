@@ -68,15 +68,19 @@ The dashboards created provide insights into:
 
 ### Screenshots  
 Below are screenshots from the Power BI dashboards:  
-![Power BI Desktop 11_25_2024 1_24_58 AM](https://github.com/user-attachments/assets/3cb13df3-3e43-449b-a31e-bd28f7104c06)
+Power BI Desktop 11_25_2024 1_24_58 AM](https://github.com/user-attachments/assets/3cb13df3-3e43-449b-a31e-bd28f7104c06)
+
 ![Power BI Desktop 11_25_2024 1_26_21 AM](https://github.com/user-attachments/assets/42038f74-c903-4968-ab51-be554e46ae00)
 
 ![Power BI Desktop 11_25_2024 1_26_32 AM](https://github.com/user-attachments/assets/11c87f4b-e61c-43ea-9147-a9f2e27f3c58)
- ![Power BI Desktop 11_25_2024 1_25_31 AM](https://github.com/user-attachments/assets/53852fcb-71ea-4407-b7c2-5fcd163f95c8)
-![Power BI Desktop 11_21_2024 10_41_52 AM](https://github.com/user-attachments/assets/b9ab7b5c-958f-4e5d-a011-70e57ccb112b)
-![Power BI Desktop 11_21_2024 10_41_35 AM](https://github.com/user-attachments/assets/1b7665cb-f06b-406c-bb97-c139b907a784)
-![Power BI Desktop 11_21_2024 10_41_21 AM](https://github.com/user-attachments/assets/550be592-4b93-4ded-b50e-1c6415cac11e)
 
+ ![Power BI Desktop 11_25_2024 1_25_31 AM](https://github.com/user-attachments/assets/53852fcb-71ea-4407-b7c2-5fcd163f95c8)
+
+![Power BI Desktop 11_21_2024 10_41_52 AM](https://github.com/user-attachments/assets/b9ab7b5c-958f-4e5d-a011-70e57ccb112b)
+
+Power BI Desktop 11_21_2024 10_41_35 AM](https://github.com/user-attachments/assets/1b7665cb-f06b-406c-bb97-c139b907a784)
+
+![Power BI Desktop 11_21_2024 10_41_21 AM](https://github.com/user-attachments/assets/550be592-4b93-4ded-b50e-1c6415cac11e)
 
 ---
 
